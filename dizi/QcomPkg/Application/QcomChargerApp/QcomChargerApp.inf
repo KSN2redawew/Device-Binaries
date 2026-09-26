@@ -1,9 +1,9 @@
 [Defines]
   INF_VERSION                    = 0x0001001B
-  BASE_NAME                      = Ebl
-  FILE_GUID                      = 3a738b36-b9c5-4763-abbd-6cbd4b25f9ff
+  BASE_NAME                      = QcomChargerApp
+  FILE_GUID                      = EEE9C2B1-16CA-4F34-87EA-2E6D1E160CC4
   MODULE_TYPE                    = UEFI_APPLICATION
   VERSION_STRING                 = 1.0
 
 [Binaries.AARCH64]
-  PE32|Ebl.efi|*
+  PE32|QcomChargerApp.efi|*
